@@ -1,0 +1,22 @@
+{
+  "name": "sakura",
+  "displayName": "sakura",
+  "description": "a pretty sakura color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "images/sakura-icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sakura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sakura-color-theme.json"
+      }
+    ]
+  }
+}
