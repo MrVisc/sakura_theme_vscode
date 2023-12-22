@@ -2,7 +2,7 @@
 
 The **sakura sun** is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.sakurasun).
 
-<img width="1383" alt="image" src="https://github.com/kayliese/sakura/assets/49692061/1e1a36cd-8c4a-446b-9cec-e797a68b730c">
+<img alt="image" src="https://github.com/kayliese/sakura/assets/49692061/0c3bf961-1930-4bae-b5e0-8cefcbc6fec5">
 
 ## Installation
 
