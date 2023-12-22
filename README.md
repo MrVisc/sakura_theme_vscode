@@ -1,13 +1,13 @@
 # sakura
 
-The **sakura** is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.sakura).
+The **sakura sun** is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.sakurasun).
 
-<img width="1383" alt="image" src="https://github.com/kayliese/wired-theme/assets/49692061/12efabbd-a245-46f9-b174-fe89a9ccf3e9">
+<img width="1383" alt="image" src="https://github.com/kayliese/sakura/assets/49692061/1e1a36cd-8c4a-446b-9cec-e797a68b730c">
 
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-2. Search for `sakura`
+2. Search for `sakura sun`
 3. Click **Install**
 4. Click **Reload** to reload VSCode
 5. Open the Command Palette `View → Command Palette` and select `Preferences: Color Theme → wired`.

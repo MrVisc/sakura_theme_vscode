@@ -3,11 +3,11 @@
   "displayName": "sakura sun",
   "publisher": "minako",
   "description": "a pretty sakura color theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
-  "icon": "images/sakura-icon.png",
+  "icon": "images/sakura-icon-transparent2.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/kayliese/sakura.git"
