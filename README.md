@@ -1,6 +1,6 @@
 # sakura
 
-The **sakura* is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.sakura).
+The **sakura** is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.sakura).
 
 <img width="1383" alt="image" src="https://github.com/kayliese/wired-theme/assets/49692061/12efabbd-a245-46f9-b174-fe89a9ccf3e9">
 
