@@ -1,19 +1,24 @@
 {
-  "name": "sakura",
-  "displayName": "sakura",
+  "name": "sakurasun",
+  "displayName": "sakura sun",
+  "publisher": "minako",
   "description": "a pretty sakura color theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
   "icon": "images/sakura-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayliese/sakura.git"
+},
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "sakura",
+        "label": "sakura sun",
         "uiTheme": "vs-dark",
         "path": "./themes/sakura-color-theme.json"
       }
