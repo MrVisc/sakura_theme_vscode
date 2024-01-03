@@ -10,7 +10,7 @@ The **sakura sun** is a Visual Studio Code theme. You can download it from the [
 2. Search for `sakura sun`
 3. Click **Install**
 4. Click **Reload** to reload VSCode
-5. Open the Command Palette `View → Command Palette` and select `Preferences: Color Theme → wired`.
+5. Open the Command Palette `View → Command Palette` and select `Preferences: Color Theme → sakura sun`.
 
 ## Contributing
 
