@@ -1,7 +1,7 @@
 {
-  "name": "sakurasun",
-  "displayName": "sakura sun",
-  "publisher": "minako",
+  "name": "sakuraVisc",
+  "displayName": "sakura visc",
+  "publisher": "Visc",
   "description": "a pretty sakura color theme",
   "version": "1.0.1",
   "engines": {
@@ -10,7 +10,7 @@
   "icon": "images/sakura-icon-transparent2.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kayliese/sakura.git"
+    "url": "https://github.com/MrVisc/sakura_theme_vscode"
 },
   "categories": [
     "Themes"
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "sakura sun",
+        "label": "sakura visc",
         "uiTheme": "vs-dark",
         "path": "./themes/sakura-color-theme.json"
       }
