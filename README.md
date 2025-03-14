@@ -1,16 +1,16 @@
 # sakura
 
-The **sakura sun** is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.sakurasun).
+The **sakura visc** is a Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Visc.sakuraVisc)).
 
 <img alt="image" src="https://github.com/kayliese/sakura/assets/49692061/0c3bf961-1930-4bae-b5e0-8cefcbc6fec5">
 
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-2. Search for `sakura sun`
+2. Search for `sakura visc`
 3. Click **Install**
 4. Click **Reload** to reload VSCode
-5. Open the Command Palette `View → Command Palette` and select `Preferences: Color Theme → sakura sun`.
+5. Open the Command Palette `View → Command Palette` and select `Preferences: Color Theme → sakura visc`.
 
 ## Contributing
 
