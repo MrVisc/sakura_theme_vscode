@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Minako
+Copyright (c) 2023 Visc
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
